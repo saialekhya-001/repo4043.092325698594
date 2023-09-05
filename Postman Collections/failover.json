@@ -240,13 +240,13 @@
 	],
 	"variable": [
 		{
-			"id": "e839a21e-c33c-406b-b365-28d90fe18e94",
+			"id": "f7cb9240-f28c-41c5-a71d-d9e09257420c",
 			"key": "token",
 			"value": "",
 			"type": "string"
 		},
 		{
-			"id": "26bb20e3-2d01-49b5-bbd1-5b65a9d21915",
+			"id": "7897cdc7-7c52-4a63-9564-226c068eeb9b",
 			"key": "baseUrl",
 			"value": "https://postman-integration-testing.glitch.me/",
 			"type": "string"
