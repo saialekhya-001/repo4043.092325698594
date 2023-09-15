@@ -47,7 +47,7 @@
 					}
 				}
 			],
-			"_postman_id": "c1814cc7-0638-4ac9-872f-b513b068685b",
+			"id": "c1814cc7-0638-4ac9-872f-b513b068685b",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -79,13 +79,14 @@
 							"// console.log hello there hey ehye",
 							"// console.log hello there hey ehye",
 							"// console.log hello there hey ehye",
+							"// asabed,jk",
 							""
 						],
 						"type": "text/javascript"
 					}
 				}
 			],
-			"_postman_id": "bee49ab2-3940-4f9d-b3ec-e38fb0486c5b",
+			"id": "bee49ab2-3940-4f9d-b3ec-e38fb0486c5b",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -136,7 +137,7 @@
 					}
 				}
 			],
-			"_postman_id": "ba8281c2-fd60-4867-8368-bb7813da6411",
+			"id": "ba8281c2-fd60-4867-8368-bb7813da6411",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -184,13 +185,14 @@
 							"})",
 							"",
 							"// hello alekhya",
-							"// hehe there? console log here, postman"
+							"// hehe there? console log here, postman",
+							"// changed now"
 						],
 						"type": "text/javascript"
 					}
 				}
 			],
-			"_postman_id": "06f3af14-5f85-4bc1-bf75-274dcb33b7ec",
+			"id": "06f3af14-5f85-4bc1-bf75-274dcb33b7ec",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -241,16 +243,14 @@
 	],
 	"variable": [
 		{
-			"id": "43c28eaa-6d7f-46da-96be-e85249032996",
+			"id": "593ba184-2137-4eb3-a06a-d3046f84998d",
 			"key": "token",
-			"value": "",
-			"type": "string"
+			"value": ""
 		},
 		{
-			"id": "a7b3b6e5-68d2-4f4a-ba0d-6105780354d6",
+			"id": "2fd9b49b-8356-454e-a562-39992c3a4776",
 			"key": "baseUrl",
-			"value": "https://postman-integration-testing.glitch.me/",
-			"type": "string"
+			"value": "https://postman-integration-testing.glitch.me/"
 		}
 	]
 }
